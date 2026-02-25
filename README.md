@@ -29,9 +29,9 @@ Proyek ini merupakan implementasi algoritma Multilayer Perceptron (MLP) mengguna
 ## Hasil
 | Metrik | Nilai |
 |---|---|
-| Accuracy | 92.91% |
-| Macro F1-Score | 0.93 |
-| Weighted F1-Score | 0.93 |
+| Accuracy | 92.93% |
+| Macro F1-Score | 0.92 |
+| Weighted F1-Score | 0.92 |
 
 ## Tools & Library
 - Python 3
