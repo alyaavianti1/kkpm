@@ -20,7 +20,7 @@ Proyek ini merupakan implementasi algoritma Multilayer Perceptron (MLP) mengguna
 ## Arsitektur MLP
 | Parameter | Nilai |
 |---|---|
-| Hidden Layers | 3 layer (128, 64, 32 neuron) |
+| Hidden Layers | 3 layer (115, 69, 46  neuron) |
 | Activation Function | ReLU |
 | Max Iterasi | 500 |
 | Data Training | 80% (1.688 data) |
